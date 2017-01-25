@@ -33,6 +33,6 @@ For exemple :
 
 | type | tag | sensor | unit | min | max | display | device | id | createdAt | updatedAt | name | identifier |
 | ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---|
-| binary | lumiere_salon | 0 | 0 | 1 | 1 | 5 | 4 | lumiere_salon | 16129806 |
+| binary | lumiere_salon | 0 | 0 | 0 | 1 | 5 | 4 | lumiere_salon | 16129806 |
 
 After that, go on Dladys, to the devices page and you can controle your device.
